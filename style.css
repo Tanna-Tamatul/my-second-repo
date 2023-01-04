@@ -2,3 +2,8 @@
     background-color: green
 
 }
+.table,th,td {
+
+        border: 50%;
+        
+}
